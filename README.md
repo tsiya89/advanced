@@ -1,1 +1,1 @@
-# advanced
+This project demonstrates basic socket programming in Java, featuring a server that listens for client connections and echoes back messages, and a client that allows users to send messages to the server and receive responses. The server listens on port 5000, and the client connects to localhost (or a specified IP address) on the same port. To run, compile both Server.java and Client.java, then execute the server first, followed by the client in a separate terminal, after which you can send messages back and forth using the client's input prompt
